@@ -1,24 +1,24 @@
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Ricardina+Zabala)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hola!+soy+Ricardina+Zabala)](https://git.io/typing-svg)
 
-## 🧭 About Me
+## 🧭 Sobre mí
 
-> 🎮 Passionate about **videogames**.
+> 🎮 Apasionada por los **videojuegos**.
 
-> 💻 Currently working with **React** and **TypeScript**.
+> 💻 Actualmente trabajando con **React** y **TypeScript**.
 
 ---
 
-## 📚 Currently Studying
+## 📚 Actualmente Estudiando
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
-### 🚀 Languages & Frameworks
+### 🚀 Lenguajes y Frameworks
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 
-### 🛠 Tools & Platforms
+### 🛠 Herramientas y Plataformas
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
@@ -42,7 +42,7 @@
 
 ---
 
-### 📌 Additional Skills
+### 📌 Habilidades Adicionales
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat&logo=tailwind-css)&nbsp;
@@ -53,11 +53,11 @@
 ![Vitest](https://img.shields.io/badge/-Vitest-0D1117?style=flat&logo=vitest)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 
-### 🌍 Languages
+### 🌍 Idiomas
 
 ![English](https://img.shields.io/badge/-English%20(Basic)-0D1117?style=flat&logo=google-translate)&nbsp;
 
-### 💡 Soft Skills
+### 💡 Habilidades Blandas
 
 ![Empathy](https://img.shields.io/badge/-Empathy-0D1117?style=flat)&nbsp;
 ![Proactivity](https://img.shields.io/badge/-Proactivity-0D1117?style=flat)&nbsp;
@@ -67,7 +67,7 @@
 
 <div>
 
-  ## 📫 &nbsp;My Contact
+  ## 📫 &nbsp;Contacto
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Ricardina_Zabala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardina-zabala/)](https://www.linkedin.com/in/ricardina-zabala/)&nbsp;
