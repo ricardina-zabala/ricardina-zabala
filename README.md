@@ -59,11 +59,11 @@
 
 ### 💡 Habilidades Blandas
 
-![Empathy](https://img.shields.io/badge/-Empathy-0D1117?style=flat)&nbsp;
-![Proactivity](https://img.shields.io/badge/-Proactivity-0D1117?style=flat)&nbsp;
-![Fast Learning](https://img.shields.io/badge/-Fast%20Learning-0D1117?style=flat)&nbsp;
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0D1117?style=flat)&nbsp;
-![Adaptability](https://img.shields.io/badge/-Adaptability-0D1117?style=flat)&nbsp;
+![Empatía](https://img.shields.io/badge/-Empathy-0D1117?style=flat)&nbsp;
+![Proactividad](https://img.shields.io/badge/-Proactivity-0D1117?style=flat)&nbsp;
+![Aprendizaje Rápido](https://img.shields.io/badge/-Fast%20Learning-0D1117?style=flat)&nbsp;
+![Resolución de Problemas](https://img.shields.io/badge/-Problem%20Solving-0D1117?style=flat)&nbsp;
+![Adaptabilidad](https://img.shields.io/badge/-Adaptability-0D1117?style=flat)&nbsp;
 
 <div>
 
