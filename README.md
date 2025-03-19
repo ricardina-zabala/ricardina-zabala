@@ -55,7 +55,7 @@
 
 ### 🌍 Idiomas
 
-![English](https://img.shields.io/badge/-English%20(Basic)-0D1117?style=flat&logo=google-translate)&nbsp;
+![Ingles](https://img.shields.io/badge/-English%20(Básico)-0D1117?style=flat&logo=google-translate)&nbsp;
 
 ### 💡 Habilidades Blandas
 
